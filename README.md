@@ -1,3 +1,3 @@
 # my-first-repo
 
-<img scr="img/picture of myself.jpeg" width="100" alt="picture of myself" />
+<img scr="img/me.png" width="100" alt="me" />
